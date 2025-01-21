@@ -71,7 +71,6 @@ header {
     background-color: #806BDC;
 }
 
-/* Update the code below this comment */
 div .Information {
     width: 92vw;
     margin: 20px;
@@ -83,7 +82,7 @@ div .Information {
 footer {
     height: 50px;
     padding-top: 28px;
-    background-color: black;
+    background-color: #806BDC;
     color: white;
     text-align: center;
 }
